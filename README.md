@@ -5,4 +5,4 @@
 
 <b> Use New Repo Of RiZoeL X Spam </b>
 
-<i> Repo : </i> https://github.com/RiZoeLX/RiZoeLXSpam
+<i> Repo : </i> RiZoeLXSpam1
